@@ -1,4 +1,4 @@
-%Michael Evans
+%Michael Evans and not Sean
 %4/22/2015
 %Hyperfine energy NH3 Inversion
 
